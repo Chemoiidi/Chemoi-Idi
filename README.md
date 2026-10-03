@@ -1,6 +1,6 @@
-Idi Chemoi | Python Developer | Automation & AI Tools
-
-Building practical tools that solve actual problems. Based in Nairobi, Kenya.
+**Idi Chemoi | Python Developer | Automation & AI Tools
+**
+Building practical tools that solve actual problems. Based in Moroto, Uganda.
 
 What I Build
 Data pipelines and automation scripts in Python
