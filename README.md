@@ -1,5 +1,5 @@
-**Idi Chemoi | Python Developer | Automation & AI Tools
-**
+Idi Chemoi | Python Developer | Automation & AI Tools
+
 Building practical tools that solve actual problems. Based in Moroto, Uganda.
 
 What I Build
