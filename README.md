@@ -1,23 +1,19 @@
-Idi Chemoi | Python Developer | Automation & AI Tools
+**Idi Chemoi | Python Developer | Automation & AI Tools**
 
-Building practical tools that solve actual problems. Based in Moroto, Uganda.
+Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 
-What I Build
+**What I Build**
+- Data pipelines and automation scripts in Python
+- REST APIs with FastAPI and Flask
+- Machine learning tools for fitness and performance tracking
+- Browser-based tools with JavaScript and the Fetch API
 
-Data pipelines and automation scripts in Python
+**Current Projects**
+- `smp-tracker`: Daily performance tracker with ML-powered coaching
+- `api-dashboard`: Multi-endpoint data dashboard with pandas reports
+- `browser-coach`: Client-side AI coaching tool in JavaScript
 
-REST APIs with FastAPI and Flask
-
-Machine learning tools for fitness and performance tracking
-
-Browser-based tools with JavaScript and the Fetch API
-
-Current Projects
-smp-tracker: Daily performance tracker with ML-powered coaching
-api-dashboard: Multi-endpoint data dashboard with pandas reports
-browser-coach: Client-side AI coaching tool in JavaScript
-Stack
-
+**Stack**  
 Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
 
 <!---
